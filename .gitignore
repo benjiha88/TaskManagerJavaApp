@@ -1,0 +1,19 @@
+# Ignorer les fichiers compilés
+*.class
+
+# Fichiers log
+*.log
+
+# Répertoires système
+.DS_Store
+Thumbs.db
+
+# Répertoires NetBeans
+nbproject/private/
+build/
+dist/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
